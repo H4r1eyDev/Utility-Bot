@@ -39,5 +39,7 @@ There isn't one. I forsome reason didn't use one at the time .. Hence there ain'
 
 --- 
 ### Credits
+
 [Harley](https://discord.gg/ksv9GaZJ74) - Main Programming
+
 [Hyperz](https://hyperz.net) - Node loggers and some of the modules.
