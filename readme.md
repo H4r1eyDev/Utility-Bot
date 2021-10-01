@@ -1,0 +1,3 @@
+# Hello and thanks for purchasing my bot! I will leave some information below.
+
+**I only provide help to people in my Discord with the customer role. If do not have the customer role then please obtain it by opening a ticket. Again, as I have stated many times in the past, If you do not fill out the whole of the config I will not provide help, you fill it ALL out. Also, to actually run the bot your system must have nodejs installed.**
