@@ -5,8 +5,6 @@
 		"botStatus": "INFO IN DISCORD",
 		"botPresence": "INFO IN DISCORD",
 		"serverGuidID": "INFO IN DISCORD",
-		"port": "3000",
-		"licenseKey": "INFO IN DISCORD",
 		"botID": "INFO IN THE DISCORD"
 	},
 
