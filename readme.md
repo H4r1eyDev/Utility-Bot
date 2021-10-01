@@ -29,6 +29,13 @@ If you do not want to download it on your personal computer, you could a VPS fro
 ### I have found a bot breaking bug, and my bot is now completely broken.
 If you've edited then I will not help you. If it is standard code downloaded off github then I will assist you!
 
+---
+### Why is some of the code in another language / Why is odd letters/numbers?
+It is because this was originally a paid release, I cannot at this time remember what it does and don't want to break the bot, if you leave it as it is then it should work. I am pretty sure it's only the start-up that uses it.
+
+---
+### Where is the event handler? 
+There isn't one. I forsome reason didn't use one at the time .. Hence there ain't that many events ... I know, stupid of me. 
 
 --- 
 ### Credits
