@@ -31,7 +31,7 @@ module.exports = {
 
 
       }else{
-        message.channel.send("You do not have the required Roles to do this! ``H4r1ey``, ``Moderator`` or ``Head Mod``!")
+        message.channel.send("You do not have the required Roles to do this")
       }
     }
 }
