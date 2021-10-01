@@ -21,6 +21,14 @@ You will need node.js and an editing software to be able to edit the config. I d
 ### Why release it if it is suggested? 
 I wanted to release as I've learn **A LOT** more, and can make a lot better bots. You can use this as an example of my work, but don't hold it to be the best. I've got some of the better products on my store. You can view my store here: https://h4r1ey-dev.xyz.
 
+---
+### I don't want to install node.js and an editing software, but I want to run the bot. 
+If you do not want to download it on your personal computer, you could a VPS from [Snowside Hosting](https://snowsidehosting.com) (Highly suggested hosting company) and download/host it there. Please remember to have this bot online 24/7 you must have a hosting or leave your computer on 24/7 *I don't suggest leaving your computer on 24/7. LOL*
+
+---
+### I have found a bot breaking bug, and my bot is now completely broken.
+If you've edited then I will not help you. If it is standard code downloaded off github then I will assist you!
+
 
 --- 
 ### Credits
